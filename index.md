@@ -14,7 +14,7 @@ The Danish design for a yeast ring used here is from the book *Landbokvinden* (*
 
 # Purchase options
 Two versions are available for purchase on [Etsy](https://www.etsy.com/shop/McBoley), with options for maple, oak, or walnut wood:
-* [Fully assembled yeast ring](https://www.etsy.com/listing/805408744/scandinavian-yeast-ring) <br/>(your choice of maple, oak, or walnut wood)
+* [Fully assembled yeast ring](https://www.etsy.com/listing/805408744/scandinavian-yeast-ring)
 * [A set of 5 DIY kits for homebrew clubs](https://www.etsy.com/listing/806043770/club-kit-diy-5-scandinavian-yeast-rings) <br/>(may require some additional cutting and/or sanding)
 
 # Open source
@@ -27,7 +27,7 @@ You can use the source files to make your own ring:
 
 # Manufacturing
 * I cut my first one by hand, but you can also use these files for laser-cutting these pieces.
-* I recommend [ponoko.com](https://ponoko.com) because it's a great service, and they offer maple, oak, and walnut hardwoods.
+* I recommend [ponoko.com](https://ponoko.com) because it's a great service, and they offer a choice of hardwood materials.
 * most lines should be cut, but I also added my own branding to etch the key piece (shown in red above)
 
 ![laser]
