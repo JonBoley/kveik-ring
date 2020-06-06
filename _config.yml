@@ -17,8 +17,8 @@ title: Kveik Ring
 email: jdb@jboley.com
 description: >- # this means to ignore newlines until "baseurl:"
   Design of a laser-cut wreath for drying brewers yeast.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jonboley.github.io/kveik-ring" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/kveik-ring" # the subpath of your site, e.g. /blog
+url: "https://jonboley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: boleybrew
 github_username:  JonBoley
 
