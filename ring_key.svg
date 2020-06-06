@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3in"
+   height="1in"
+   viewBox="0 0 76.2 25.400001"
+   version="1.1"
+   id="svg1102"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="ring_key.svg"
+   inkscape:export-filename="C:\Users\jboley\Documents\development\github\kveik-ring\ring_key.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs1096" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="115.03205"
+     inkscape:cy="95.000528"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     units="in" />
+  <metadata
+     id="metadata1099">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-271.59998)">
+    <path
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.96000004;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 240.35352,3.1191406 12.425781,3.3359375 0.63867188,16.619141 l 11.78710912,13.5 -11.78710912,13.5 11.74609412,13.453125 227.968754,0.04687 z M 12.384766,57.072266 h -0.03125 l 0.07226,0.04687 z M 108.42578,24.025391 h 59.88086 v 11.929687 h -59.88086 z m -36.072264,0.09375 h 12 v 12 h -12 z"
+       transform="matrix(0.26458334,0,0,0.26458334,0,281.75998)"
+       id="rect3721"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
