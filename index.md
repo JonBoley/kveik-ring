@@ -21,14 +21,12 @@ Two versions are available for purchase on [Etsy](https://www.etsy.com/shop/McBo
 You can use the source files to make your own ring:
 * [ring element](//github.com/JonBoley/kveik-ring/blob/master/ring_element.svg) - most pieces will look like this<br/>![ring_element]
 * [ring key](//github.com/JonBoley/kveik-ring/blob/master/ring_key.svg)<br/>![ring_key]
-* [sheet of 104 elements (including key)](//github.com/JonBoley/kveik-ring/blob/master/ring_elements_104.svg)<br/>contains 104 pieces for a full ring.<br/>I prefer a tight untwisted ring with 93 pieces, but you can use more or less pieces and/or twisting.<br/>![ring_elements_104]
 
 (Note that this design is intended for wood that is 1/8-inch thick. You will need to make adjustments for other thicknesses.)
 
 # Manufacturing
 * I cut my first one by hand, but you can also use these files for laser-cutting these pieces.
 * I recommend [ponoko.com](https://ponoko.com) because it's a great service, and they offer a choice of hardwood materials.
-* most lines should be cut, but I also added my own branding to etch the key piece (shown in red above)
 
 ![laser]
 
