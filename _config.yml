@@ -22,6 +22,8 @@ url: "https://jonboley.github.io" # the base hostname & protocol for your site, 
 twitter_username: boleybrew
 github_username:  JonBoley
 
+google_analytics: UA-38494371-3
+
 logo: /assets/img/kveik_ring_maple.jpg
 
 # Build settings
