@@ -1,16 +1,12 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
+published: true
 ---
 Kveik is a Scandivavian farmhouse yeast that is traditionally dried on a "yeast ring" (gærkrans in Danish) between batches of beer.
 For more information, check out [Lars Garshol's blog](http://www.garshol.priv.no/blog/291.html) and the Kveik page on [milkthefunk.com](http://www.milkthefunk.com/wiki/Kveik).
 I was inspired by those sites and by the [Medieval Mead and Beer](https://medievalmeadandbeer.wordpress.com/2019/05/04/how-to-make-a-yeast-ring/) blog.
 
-The Danish design for a yeast ring used here is from the book *Landbokvinden* (*Back to the Land*), by Ole Højrup.
-
-![book]
+The Danish design for a yeast ring used here is from the book *Landbokvinden* by Ole Højrup.
 
 # Purchase options
 Two versions are available for purchase on [Etsy](https://www.etsy.com/shop/McBoley), with options for maple, oak, or walnut wood:
@@ -37,9 +33,6 @@ You can use the source files to make your own ring:
   * there is often some variability in the thickness of wood, so assembly may require some sanding. I recommend very fine sandpaper (>200 grit). If the wood sheet is too thin, you might even have to cut your own piece to tightly lock the key in place.
 
 ![key]
-
-[book]: /assets/img/landbokvinden.jpg
-{: height="200px"}
 
 [ring_element]: /assets/img/ring_element.png
 {: .center-image width="300px"}
