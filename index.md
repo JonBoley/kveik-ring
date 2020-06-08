@@ -2,7 +2,7 @@
 layout: default
 published: true
 ---
-Kveik is a Scandivavian farmhouse yeast that is traditionally dried on a "yeast ring" (gærkrans in Danish) between batches of beer.
+Kveik is a Scandinavian farmhouse yeast that is traditionally dried on a "yeast ring" (gærkrans in Danish) between batches of beer.
 For more information, check out [Lars Marius Garshol's blog](http://www.garshol.priv.no/blog/291.html) and the Kveik page on [milkthefunk.com](http://www.milkthefunk.com/wiki/Kveik).
 I was inspired by those sites and by the [Medieval Mead and Beer](https://medievalmeadandbeer.wordpress.com/2019/05/04/how-to-make-a-yeast-ring/) blog.
 
