@@ -9,9 +9,8 @@ I was inspired by those sites and by the [Medieval Mead and Beer](https://mediev
 The Danish design for a yeast ring used here is based on Povl Abrahamsen's illustration in the book *Landbokvinden* (written by Ole Højrup).
 
 # Purchase options
-Two versions are available for purchase on [Etsy](https://www.etsy.com/shop/McBoley), with options for maple, oak, or walnut wood:
+Rings are available for purchase on [Etsy](https://www.etsy.com/shop/McBoley), with options for maple, oak, or walnut wood:
 * [Fully assembled yeast ring](https://www.etsy.com/listing/805408744/scandinavian-yeast-ring)
-* [A set of 5 DIY kits for homebrew clubs](https://www.etsy.com/listing/806043770/club-kit-diy-5-scandinavian-yeast-rings) <br/>(may require some additional cutting and/or sanding)
 
 # Open source
 You can use the source files to make your own ring:
